@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FeedbackApp-ReactJS/static/css/main.1547e827.chunk.css",
+    "main.js": "/FeedbackApp-ReactJS/static/js/main.565d9664.chunk.js",
+    "main.js.map": "/FeedbackApp-ReactJS/static/js/main.565d9664.chunk.js.map",
+    "runtime-main.js": "/FeedbackApp-ReactJS/static/js/runtime-main.361d7a59.js",
+    "runtime-main.js.map": "/FeedbackApp-ReactJS/static/js/runtime-main.361d7a59.js.map",
+    "static/js/2.4a1610be.chunk.js": "/FeedbackApp-ReactJS/static/js/2.4a1610be.chunk.js",
+    "static/js/2.4a1610be.chunk.js.map": "/FeedbackApp-ReactJS/static/js/2.4a1610be.chunk.js.map",
+    "index.html": "/FeedbackApp-ReactJS/index.html",
+    "static/css/main.1547e827.chunk.css.map": "/FeedbackApp-ReactJS/static/css/main.1547e827.chunk.css.map",
+    "static/js/2.4a1610be.chunk.js.LICENSE.txt": "/FeedbackApp-ReactJS/static/js/2.4a1610be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.361d7a59.js",
+    "static/js/2.4a1610be.chunk.js",
+    "static/css/main.1547e827.chunk.css",
+    "static/js/main.565d9664.chunk.js"
+  ]
+}
