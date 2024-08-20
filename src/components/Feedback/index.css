@@ -1,0 +1,68 @@
+/* Write your CSS code here. */
+
+* {
+  margin: 0;
+}
+
+.bg {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+}
+
+.card {
+  background-color: white;
+  width: 600px;
+  border-radius: 10px;
+  padding: 60px;
+  text-align: center;
+  font-family: 'roboto';
+}
+
+.head {
+  color: #0f172a;
+  padding-bottom: 15px;
+}
+
+.ul {
+  list-style-type: none;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+  justify-content: space-between;
+}
+
+.img {
+  width: 70px;
+}
+
+.text {
+  color: #1e293b;
+  padding-top: 5px;
+}
+
+.love {
+  width: 100px;
+}
+
+@media (max-width: 576px) {
+  .img {
+    width: 50px;
+  }
+
+  .li {
+    margin: 10px;
+  }
+
+  .head {
+    font-size: 18px;
+  }
+  .ul {
+    text-align: center;
+  }
+}
